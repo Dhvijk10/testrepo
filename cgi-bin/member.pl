@@ -4,6 +4,8 @@ use warnings;
 
 print "Content-type: text/html\n\n";
 
+
+
 use DBI;
 # MySQL database configuration
 my $dsn = "mysql";
